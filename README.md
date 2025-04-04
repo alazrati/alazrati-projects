@@ -1,4 +1,4 @@
-(Türkçe versiyon: [Turkish]())
+(Türkçe versiyon: [Turkish](https://github.com/alazrati/alazrati-projects-tr/tree/main))
 
 Hello, we are the Alazrati Projects Team.
 
